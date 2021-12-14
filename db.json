@@ -1,0 +1,32 @@
+{
+   "contacts": [{
+      "firstName": "Amit",
+      "lastName": "Roy",
+      "phone": "9876543210",
+      "id": 1
+    },
+    {
+      "firstName": "Aakash",
+      "lastName": "Choudhury",
+      "phone": "9876584431",
+      "id": 2
+    },
+    {
+      "firstName": "Arun",
+      "lastName": "Dey",
+      "phone": "5748493812",
+      "id": 3
+    },
+    {
+      "firstName": "Vikash",
+      "lastName": "Trivedi",
+      "phone": "9873625261",
+      "id": 4
+    },
+    {
+      "firstName": "Gaurav",
+      "lastName": "Gupta",
+      "phone": "7002873284",
+      "id": 5
+    }]
+}
